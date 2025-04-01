@@ -1,6 +1,6 @@
 # Reinforcement Learning 🤖🧠
 
-Welcome to the fascinating field of Reinforcement Learning! ✨ This resource offers a comprehensive collection of literature 📚, lectures 🎙️, and both guided and non-guided hands-on projects 🚀 (non-guided projects will be available starting in April). The projects utilize OpenAI Gymnasium 🏋️ and Unity ML-Agents 🎮 and will soon include custom environments 🛠️.
+Welcome to the fascinating field of Reinforcement Learning! ✨ This resource offers a comprehensive collection of literature 📚, lectures & lecture-notes🎙️, and both guided and non-guided hands-on projects 🚀 (non-guided projects will be available starting in April). The projects utilize OpenAI Gymnasium and Unity ML-Agents 🎮 and will soon include custom environments.
 
 **Repository Structure** 📂
 
